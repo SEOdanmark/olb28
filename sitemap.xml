@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>https://olb28.netlify.app/index.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/online-marketing.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/online-paid-ads.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/google-ads.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/meta-ads.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/feed.xml</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/sitemap.xml</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/sitemap.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://olb28.netlify.app/about-us.html</loc>
+                 <lastmod>2024-04-03T12:28:48+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
